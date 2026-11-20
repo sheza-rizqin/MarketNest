@@ -9,7 +9,7 @@ Local listings can be difficult to discover when they are scattered across broad
 
 ## Features
 
-- Registration, login, logout, password reset, and account profile management.
+- Registration, login, logout, password reset and account profile management.
 - Public homepage, category and subcategory browsing, city pages, and city/category pages.
 - Listing search by title and description, with type, category, location, price, sorting, and pagination filters.
 - Seller owned product and service listing creation and management.
